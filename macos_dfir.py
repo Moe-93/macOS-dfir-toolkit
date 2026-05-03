@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Mac OS Digital Forensics Artifact Collector & MITRE ATT&CK Mapper
-Author: DFIR Expert
+Author: Mohamed Aqeel - DFIR Expert
 Purpose: Collect forensic artifacts from macOS, parse them, map to MITRE ATT&CK, export CSV
 """
 
@@ -1365,8 +1365,8 @@ def main():
     print("""
     ╔══════════════════════════════════════════════════════════════════╗
     ║           macOS Digital Forensics Incident Response Tool         ║
-    ║                    MITRE ATT&CK Mapping Edition   
-               Created By Mohamed Aqeel for all DFIR and SecOps folks. ║
+    ║                    MITRE ATT&CK Mapping Edition                  ║
+    ║        Created By Mohamed Aqeel for all DFIR and SecOps folks.   ║
     ╚══════════════════════════════════════════════════════════════════╝
     """)
     
